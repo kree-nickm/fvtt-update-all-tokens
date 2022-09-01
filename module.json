@@ -2,7 +2,7 @@
    "name": "update-all-tokens",
    "title": "Update All Tokens",
    "description": "<p>Gives the owner of an actor the ability to update all tokens in the game to match the prototype token.</p>",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "author": "Kryand",
    "scripts": ["./main.js"],
    "styles": [],
@@ -15,5 +15,5 @@
    "readme": "README.md",
    "license": "LICENSE",
    "minimumCoreVersion": "0.8.0",
-   "compatibleCoreVersion": "0.8.9"
+   "compatibleCoreVersion": "9.280"
 }
